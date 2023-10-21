@@ -60,11 +60,6 @@ If you want to make setup by hand you can do it also. But auto setup is the best
  * package-lock.json
  
  
- ### For Help:
- Please feel free to mail me <a href="mailto:hasanuzzamanbe@gmail.com">hasanuzzamanbe@gmail.com</a>
- 
- For faster response please text me on https://www.hasanuzzaman.com live chat.
- 
  <hr>
  
 ### Other Setups you may Use
